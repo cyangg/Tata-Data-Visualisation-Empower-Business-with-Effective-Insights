@@ -134,3 +134,5 @@ Remember, this is not just a read out of your visuals, you’re presenting to th
 [Back to Top](#author-Henry)
 
 ### 🎨 [TATA Data Visualisation Empowering Business with Effective Insights](https://public.tableau.com/app/profile/henry.yang7195/viz/TATADataVisualisationEmpoweringBusinesswithEffectiveInsights_16739239807700/Presentation?publish=yes)
+
+![dashboard-TATA](file:///C:/Users/cyang/Downloads/Presentation.png)
