@@ -19,8 +19,8 @@ The programme demonstrates the kind of issues dealt with by Tata Insights and Qu
 **♦ Communicating Insights and Analysis**
 ### 🎨 [TATA Data Visualisation Empowering Business with Effective Insights](https://public.tableau.com/app/profile/henry.yang7195/viz/TATADataVisualisationEmpoweringBusinesswithEffectiveInsights_16739239807700/Presentation?publish=yes)
 
-![Presentation](https://user-images.githubusercontent.com/93499674/212800887-b5eeb07e-4344-41d9-9597-fb8df8c3a3a7.png)
-rd-TATA]
+![Presentation](https://user-images.githubusercontent.com/93499674/212800887-b5eeb07e-4344-41d9-9597-fb8df8c3a3a7.png)(#author-Henry)
+
 
 ## **Task 1 - Framing the Business Scenario**
 Learn how to anticipate the questions your business leaders will need answers to.
