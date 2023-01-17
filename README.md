@@ -1,5 +1,3 @@
-# Tata-Data-Visualisation-Empower-Business-with-Effective-Insights
-
 ![tata](https://user-images.githubusercontent.com/27211670/190601774-db1cbc4d-0daa-4853-a890-ebc6c15895ab.jpg)
 
 
